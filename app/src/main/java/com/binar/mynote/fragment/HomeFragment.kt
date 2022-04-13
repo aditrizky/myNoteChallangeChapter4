@@ -14,6 +14,7 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.binar.mynote.MainActivity
 import com.binar.mynote.NoteAdapter
 import com.binar.mynote.data.Note
 import com.binar.mynote.databinding.CustomEditDialogBinding
